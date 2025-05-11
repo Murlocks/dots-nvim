@@ -8,6 +8,8 @@
     "lazyvim.plugins.extras.editor.aerial",
     "lazyvim.plugins.extras.editor.dial",
     "lazyvim.plugins.extras.editor.harpoon2",
+    "lazyvim.plugins.extras.editor.mini-diff",
+    "lazyvim.plugins.extras.editor.mini-move",
     "lazyvim.plugins.extras.editor.refactoring",
     "lazyvim.plugins.extras.lang.ansible",
     "lazyvim.plugins.extras.lang.docker",
@@ -26,12 +28,11 @@
     "lazyvim.plugins.extras.lang.yaml",
     "lazyvim.plugins.extras.test.core",
     "lazyvim.plugins.extras.ui.treesitter-context",
-    "lazyvim.plugins.extras.util.chezmoi",
     "lazyvim.plugins.extras.util.mini-hipatterns",
     "lazyvim.plugins.extras.util.rest"
   ],
   "news": {
-    "NEWS.md": "6520"
+    "NEWS.md": "10960"
   },
-  "version": 6
+  "version": 8
 }
