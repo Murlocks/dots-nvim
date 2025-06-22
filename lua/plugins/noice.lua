@@ -1,7 +1,6 @@
 return {
   {
     "folke/noice.nvim",
-    tag = "v4.4.7",
     opts = {
       -- Position the command popup at the center of the screen
       -- See https://github.com/folke/noice.nvim/blob/0cbe3f88d038320bdbda3c4c5c95f43a13c3aa12/lua/noice/types/nui.lua#L6
