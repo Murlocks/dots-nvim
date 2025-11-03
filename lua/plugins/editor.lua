@@ -69,7 +69,7 @@ return {
   --   end,
   -- },
   {
-    "echasnovski/mini.align",
+    "nvim-mini/mini.align",
     version = false,
     keys = {
       { "ga", desc = "Start align", mode = { "n", "v" } },
